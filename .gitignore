@@ -1,0 +1,26 @@
+# Virtual environment 
+venv/ 
+env/ 
+.env 
+ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+*.pyo 
+ 
+# IDE settings 
+.vscode/ 
+.idea/ 
+ 
+# Jupyter Notebook 
+.ipynb_checkpoints/ 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
+ 
+# File unggahan pengguna (sementara) 
+*.jpg 
+*.jpeg 
+*.png 
+!logo_untidar.png 
